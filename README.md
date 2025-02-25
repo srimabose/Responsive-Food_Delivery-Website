@@ -18,6 +18,7 @@ This is a **responsive food delivery website** built using **HTML, CSS, and Java
 ![Food Delivery Website Preview](Demo_Look/demo_2.png)
 <br/>
 **Small Screen**
+<br/>
 ![Food Delivery Website Preview](Demo_Look/sdemo_2.png)
 ![Food Delivery Website Preview](Demo_Look/sdemo_1.png)
 
