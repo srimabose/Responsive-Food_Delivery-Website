@@ -12,14 +12,14 @@ This is a **responsive food delivery website** built using **HTML, CSS, and Java
 ## 📷 Screenshot
 
 **Light Mode**
-![Food Delivery Website Preview](demo_1.png)
+![Food Delivery Website Preview](Demo_Look/demo_1.png)
 <br/>
 **Dark Mode**
-![Food Delivery Website Preview](demo_2.png)
+![Food Delivery Website Preview](Demo_Look/demo_2.png)
 <br/>
 **Small Screen**
-![Food Delivery Website Preview](sdemo_2.png)
-![Food Delivery Website Preview](sdemo_1.png)
+![Food Delivery Website Preview](Demo_Look/sdemo_2.png)
+![Food Delivery Website Preview](Demo_Look/sdemo_1.png)
 
 ## 🚀 Technologies Used
 
