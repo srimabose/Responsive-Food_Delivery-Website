@@ -1,5 +1,5 @@
 # 🍽️ Responsive Food Delivery Website
-🛍️ **Click here** (elegant-otter-f6b57e.netlify.app) to explore the project.  
+🔗 **Live Demo:** [Click here to view](https://elegant-otter-f6b57e.netlify.app) 
 <br/>
 This is a **responsive food delivery website** built using **HTML, CSS, and JavaScript**. The website allows users to explore food items, place orders, and locate the restaurant. It also features a **light/dark theme toggle** implemented using JavaScript. The design is fully responsive using CSS.
 
